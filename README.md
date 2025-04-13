@@ -1,4 +1,4 @@
-# ATS Resume Expert 🧠📄
+# ATS Resume Expert 📄
 
 **ATS Resume Expert** is a powerful web application built using **Streamlit** and **Google's Gemini Pro Vision API** that helps job seekers evaluate how well their resumes match a given job description.
 
@@ -29,4 +29,4 @@ With the help of AI, the app provides:
 ---
 
 ## Run the Streamlit app:
-streamlit run app.py
+streamlit run ats.py
